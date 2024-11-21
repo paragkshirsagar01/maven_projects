@@ -1,9 +1,4 @@
-server:
-  port: 8005
 spring:
-  application:
-    name: PLANAPPLICATION
-  
   datasource:
     url: jdbc:mysql://localhost:3306/microservices
     username: microservices
